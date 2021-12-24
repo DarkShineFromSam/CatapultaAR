@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c09684b450f9ee641ae3cf85c24f8fcd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlaneMarkerPrefab: {fileID: 4991543438107130977, guid: a9caa6f8742c27a4d99515b3fd300da8, type: 3}
+  - ObjectToSpawn: {fileID: 86052247789959136, guid: 63ce6e6547f0fe94790322c8fce612c3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
